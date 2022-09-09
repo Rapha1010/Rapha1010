@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rapha1010
-- 👀 I’m interested in Java, Spring Framework, PHP, JS
-- 💞️ I’m looking to collaborate on Java, Spring Framework, PHP, JS, Python
+- 👀 Most of my projects are Java, Spring Framework, PHP, JS
 - 📫 How to reach me https://www.linkedin.com/in/raphaelatavaresleao/
 
 <!---
