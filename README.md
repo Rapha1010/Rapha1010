@@ -2,10 +2,10 @@
 
 - 👋 Hi, I’m @Rapha1010
 - I’m Bachelor of Science (B.S) in Information Systems (IS).
-- I'm currently work as Java/Spring Framework Backend Engineer at IBM
+- I'm currently work as Java/SpringFramework Angular/Typescript Software Engineer at IBM
 - I'm doing a Software Architecture PostGradute at PUC Minas
 - More than 8 years designig systems following requiriments.
-- I love to design my systems using Java/Python/PHP using repository, service, factory patterns.
+- I love to design my systems using Java/SpringFramework  Angular/Typescript and using repository, service, factory patterns.
 - I love to understand more about microservice Architectures (Event, Broker , Mediator , Event Notication Pattern)
 
 <p align="center">  
