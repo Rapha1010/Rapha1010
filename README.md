@@ -1,12 +1,19 @@
 
 
-- 👋 Hi, I’m @Rapha1010
-- I'm a Software Architecture PostGradute at PUC Minas
-- I’m a Bachelor of Science (B.S) in Information Systems (IS).
-- I'm currently work as Java/SpringFramework Angular/Typescript Software Engineer at IBM
-- More than 8 years designig systems following requiriments.
-- I love to design my systems using Java/SpringFramework  Angular/Typescript and using repository, service, factory patterns.
-- I love to understand more about microservice Architectures (Event, Broker , Mediator , Event Notication Pattern)
+- 👋 Hi, I’m @Rapha1010  
+- 💼 Senior Software Developer at IBM, working with Java, Spring Boot, Angular, and TypeScript  
+- 🎓 Postgraduate in Distributed Software Architecture at PUC Minas  
+- 🎓 Bachelor of Science (B.S.) in Information Systems  
+
+- 🧠 10+ years of experience designing and building scalable systems, mainly in finance and SaaS domains  
+- ☁️ Currently focused on cloud-native architectures and modernization, especially using AWS (EKS, Lambda, Terraform)  
+- 🏗️ Strong background in backend engineering, APIs, and distributed systems  
+
+- 🧩 I enjoy designing systems using principles like Clean Architecture and Hexagonal Architecture  
+- 🔧 Frequent use of patterns such as Repository, Service, and Factory  
+- 🔄 Deep interest in microservices and event-driven architectures (Event, Broker, Mediator, Event Notification patterns)  
+
+- 🤖 Currently exploring AI, LLMs, and building intelligent agents to improve software development workflows  
 
 <p align="center">  
 &nbsp; <a href="https://www.instagram.com/rhtavares1010/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
