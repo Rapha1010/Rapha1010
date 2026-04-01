@@ -1,18 +1,13 @@
-
-
 - 👋 Hi, I’m @Rapha1010  
 - 💼 Senior Software Developer at IBM, working with Java, Spring Boot, Angular, and TypeScript  
 - 🎓 Postgraduate in Distributed Software Architecture at PUC Minas  
 - 🎓 Bachelor of Science (B.S.) in Information Systems  
-
 - 🧠 10+ years of experience designing and building scalable systems, mainly in finance and SaaS domains  
 - ☁️ Currently focused on cloud-native architectures and modernization, especially using AWS (EKS, Lambda, Terraform)  
 - 🏗️ Strong background in backend engineering, APIs, and distributed systems  
-
 - 🧩 I enjoy designing systems using principles like Clean Architecture and Hexagonal Architecture  
 - 🔧 Frequent use of patterns such as Repository, Service, and Factory  
 - 🔄 Deep interest in microservices and event-driven architectures (Event, Broker, Mediator, Event Notification patterns)  
-
 - 🤖 Currently exploring AI, LLMs, and building intelligent agents to improve software development workflows  
 
 <p align="center">  
